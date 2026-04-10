@@ -1,3 +1,16 @@
 # Predict-Costumer-Churn
 
 This project aims to predict customer churn using machine learning techniques, The project involves end-to-end data analysis, starting from data cleaning and preprocessing, exploratory data analysis (EDA), and feature engineering to identify key factors influencing customer churn. Various patterns and relationships within the data are explored to gain insights into customer behavior.  Several baseline machine learning models are implemented, including Logistic Regression and other classification algorithms, to predict whether a customer will churn. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure reliable predictions.  The results highlight important features that contribute to churn, enabling businesses to develop targeted retention strategies and improve customer satisfaction.
+
+🔧 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
+🎯 Key Features
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Classification Modeling
+- Model Evaluation
